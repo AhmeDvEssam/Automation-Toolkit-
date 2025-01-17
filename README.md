@@ -91,7 +91,7 @@ import pandas as pd
 df = pd.read_csv('your_dataset.csv')
 
 # Run the enhanced describe function
-describe_plus(df, target='target_column')
+describe_plus(df)
 Example Workflow
 Initial Analysis:
 
